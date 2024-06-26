@@ -10,14 +10,15 @@
 
 By the end of this lab you will be able to...
 
-1. Fetch a an array of data objects from an API
-1. Display a list of objects in a table view
-1. Load and display remote images given a URL
+- [x] Fetch an array of data objects from an API
+- [x] Display a list of objects in a table view
+- [x] Load and display remote images given a URL
 
 ### Features
 
 #### Required Features
 
-1. Fetch movie data from The Movie DB API
-1. Display movies scrolling list of movies fetched from the TMDB API.
-   1. Each movie in the list should display the movie’s poster image, title and description
+- [x] Fetch movie data from The Movie DB API
+- [x] Display a scrolling list of movies fetched from the TMDB API.
+    - [x] Each movie in the list should display the movie’s poster image, title and description
+- [x] infinite scrolling load more movies while scrolling 

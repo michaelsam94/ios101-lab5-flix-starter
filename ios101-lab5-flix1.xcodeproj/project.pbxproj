@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4CAC34462C2C14DB0062718F /* MoviesCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CAC34452C2C14DB0062718F /* MoviesCell.swift */; };
 		ED83EE9A29B05FCE007A4FC9 /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED83EE9929B05FCE007A4FC9 /* Movie.swift */; };
 		ED83EE9D29B06A4C007A4FC9 /* Nuke in Frameworks */ = {isa = PBXBuildFile; productRef = ED83EE9C29B06A4C007A4FC9 /* Nuke */; };
 		ED88ABF229AD9858008A6FF6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED88ABF129AD9858008A6FF6 /* AppDelegate.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4CAC34452C2C14DB0062718F /* MoviesCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesCell.swift; sourceTree = "<group>"; };
 		ED83EE9929B05FCE007A4FC9 /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
 		ED88ABEE29AD9858008A6FF6 /* ios101-lab5-flix1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios101-lab5-flix1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED88ABF129AD9858008A6FF6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				ED88ABF129AD9858008A6FF6 /* AppDelegate.swift */,
 				ED88ABF329AD9858008A6FF6 /* SceneDelegate.swift */,
 				ED88ABF529AD9858008A6FF6 /* ViewController.swift */,
+				4CAC34452C2C14DB0062718F /* MoviesCell.swift */,
 				ED83EE9929B05FCE007A4FC9 /* Movie.swift */,
 				ED88ABF729AD9858008A6FF6 /* Main.storyboard */,
 				ED88ABFA29AD9859008A6FF6 /* Assets.xcassets */,
@@ -150,6 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ED88ABF629AD9858008A6FF6 /* ViewController.swift in Sources */,
+				4CAC34462C2C14DB0062718F /* MoviesCell.swift in Sources */,
 				ED88ABF229AD9858008A6FF6 /* AppDelegate.swift in Sources */,
 				ED83EE9A29B05FCE007A4FC9 /* Movie.swift in Sources */,
 				ED88ABF429AD9858008A6FF6 /* SceneDelegate.swift in Sources */,
